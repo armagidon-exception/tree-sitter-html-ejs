@@ -1,5 +1,5 @@
 module.exports = grammar({
-  name: 'html_eex',
+  name: 'html_ejs',
 
   extras: $ => [$.comment, /\s+/],
 
